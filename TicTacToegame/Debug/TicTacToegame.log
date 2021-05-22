@@ -1,0 +1,4 @@
+﻿  GameForm.cpp
+D:\C++\TicTacToegame\TicTacToegame\GameForm.cpp(212,19): warning C4018: <: несоответствие типов со знаком и без знака
+  GameForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  TicTacToegame.vcxproj -> D:\C++\TicTacToegame\Debug\TicTacToegame.exe

@@ -1,0 +1,3 @@
+D:\C++\TicTacToegame\TicTacToegame\Debug\TicTacToegame.vcxprojAssemblyReference.cache
+D:\C++\TicTacToegame\TicTacToegame\Debug\TicTacToegame.GameForm.resources
+D:\C++\TicTacToegame\TicTacToegame\Debug\TicTacToegame.vcxproj.GenerateResource.cache
